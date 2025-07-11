@@ -13,5 +13,5 @@ spec:
         app: kargo-demo
     spec:
       containers:
-      - image: public.ecr.aws/nginx/nginx:1.29.0
+      - image: public.ecr.aws/nginx/nginx:1.24.0
         name: nginx
