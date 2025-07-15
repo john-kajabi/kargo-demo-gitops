@@ -13,5 +13,5 @@ spec:
         app: kargo-demo
     spec:
       containers:
-      - image: public.ecr.aws/nginx/nginx:placeholder
-        name: nginx
+      - image: 937028213865.dkr.ecr.us-east-1.amazonaws.com/kajabi-base@sha256:6ccafcd6f39f16e7babdd5c35e7298f0ddc07b4f51427178af5cc39c5acd7d66
+        name: kajabi-base
