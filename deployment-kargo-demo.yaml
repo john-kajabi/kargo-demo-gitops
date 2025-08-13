@@ -13,5 +13,5 @@ spec:
         app: kargo-demo
     spec:
       containers:
-      - image: 937028213865.dkr.ecr.us-east-1.amazonaws.com/kajabi-base@sha256:4e362a56063435a0c8ae8fd0de46cb11dffdcd3d95b0f0c247cefa957167e646
+      - image: 937028213865.dkr.ecr.us-east-1.amazonaws.com/kajabi-base@sha256:fcab0311c7a9ad56423cc3ad181e9009243a6d4c264a06100cc6458be8172a93
         name: kajabi-base
